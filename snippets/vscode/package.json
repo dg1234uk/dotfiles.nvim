@@ -1,0 +1,19 @@
+{
+  "name": "dg1234uk-snippets",
+  "contributes": {
+    "snippets": [
+      {
+        "language": [
+          "all"
+        ],
+        "path": "./all.json"
+      },
+      {
+        "language": [
+          "javascript"
+        ],
+        "path": "./javascript.json"
+      }
+    ]
+  }
+}
